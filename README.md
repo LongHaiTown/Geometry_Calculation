@@ -9,10 +9,12 @@
   <li>Write into Texfield neccessary input to calculate Perimeter & Area. Click on the “Nhập “ button  to save the Input</li>
 </ul>
 <div style="width:40%" >
-  <img src="https://drive.google.com/uc?export=view&id=1UuNmxliFfgT_alYKxWsQNoYNVEFBQXfz" style="width:40%" >
-  <img src="https://drive.google.com/uc?export=view&id=15ZUMENiJwlvOF0C9hFcyaE248FlI2n_G" style="width:40%" >
-  <img src="https://drive.google.com/uc?export=view&id=1rAhII_E6tmOBZ4CNSdzplekSgdAF6BRJ" style="width:40%" >
-  <img src="https://drive.google.com/uc?export=view&id=16gb6x6HItWpL9OSovLWeBoxnAwc9qEVj" style="width:40%" >
+  <img src="https://drive.google.com/uc?export=view&id=1UuNmxliFfgT_alYKxWsQNoYNVEFBQXfz" style="width:35%" >
+  <img src="https://drive.google.com/uc?export=view&id=15ZUMENiJwlvOF0C9hFcyaE248FlI2n_G" style="width:35%" >
+  <img src="https://drive.google.com/uc?export=view&id=1XFAnwSLcCY6ld3Erzp5p2hpQ5sJeno69" style="width:20%" >
+  <img src="https://drive.google.com/uc?export=view&id=1rAhII_E6tmOBZ4CNSdzplekSgdAF6BRJ" style="width:35%" >
+  <img src="https://drive.google.com/uc?export=view&id=16gb6x6HItWpL9OSovLWeBoxnAwc9qEVj" style="width:35%" >
+
 <div>
 
 <p style="font-style: italic;">
